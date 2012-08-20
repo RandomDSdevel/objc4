@@ -1,0 +1,4 @@
+.DS_Store
+objc.xcodeproj/*
+!objc.xcodeproj/project.pbxproj
+help
