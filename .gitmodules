@@ -1,3 +1,5 @@
+
 [submodule "OBJC4-437.1-Runtime"]
 	path = runtime
-	url = git@github.com:macmade/OBJC4-437.1-Runtime.git
+	url = https://github.com/macmade/OBJC4-437.1-Runtime.git
+	branch = master
